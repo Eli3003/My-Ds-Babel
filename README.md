@@ -15,8 +15,3 @@ print(sql_to_csv('sourse_all_fault_line.db','fault_lines'))
 
 csv_content = open("sourse_list_volcano.csv")
 csv_to_sql(csv_content, 'list_volcanos.db','volcanos')
-### The Core Team
-
-
-<span><i>Made at <a href='https://qwasar.io'>Qwasar Silicon Valley</a></i></span>
-<span><img alt='Qwasar Silicon Valley Logo' src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px'></span>
